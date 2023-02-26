@@ -4,10 +4,10 @@ We participate in hackathons
 
 ## Stats
 
-| Participated | 1        |
+| Participated | 2        |
 |--------------|----------|
-| Submitted    | 1 (100%) |
-| Won          | 1 (100%) |
+| Submitted    | 2 (100%) |
+| Won          | 1 (50%) |
 
 # Projects
 
