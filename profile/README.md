@@ -4,10 +4,10 @@ We participate in hackathons
 
 ## Stats
 
-| Participated | 2        |
+| Participated | 3        |
 |--------------|----------|
-| Submitted    | 2 (100%) |
-| Won          | 1 (50%) |
+| Submitted    | 3 (100%) |
+| Won          | 2 (67%) |
 
 # Projects
 
@@ -15,3 +15,6 @@ We participate in hackathons
 
 [![Happy Meal Year repository](https://github-readme-stats.vercel.app/api/pin/?username=lads-hackathon&repo=meal-tracker-sylh2)](https://github.com/lads-hackathon/meal-tracker-sylh2)
 
+## Second Place
+
+[![Noter repository](https://github-readme-stats.vercel.app/api/pin/?username=lads-hackathon&repo=noter-hackbua23)](https://github.com/lads-hackathon/noter-hackbua23)
